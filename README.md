@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=220&section=header&text=Ak&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=220&section=header&text=AGIN KK&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
 <h2>Full Stack Developer | MCA Student</h2>
 
