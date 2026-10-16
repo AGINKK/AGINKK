@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=220&section=header&text=AGIN KK&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=220&section=header&text=AGIN%20KK&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="AGIN KK banner" />
 
 <h2>Full Stack Developer | MCA Student</h2>
 
@@ -23,18 +23,18 @@ I'm an MCA student passionate about software development, web technologies, and 
 - 🎓 Pursuing MCA at St. Joseph College Devagiri
 - 💻 Focused on Full Stack Development
 - 🌱 Learning React, Node.js, Python, and SQL
-- 🤖 Exploring Machine Learning through hands-on projects
+- 🤖 Exploring Machine Learning through practical projects
 - 🎯 Working towards becoming a skilled Full Stack Developer
 
 ---
 
 ## 🎯 Current Focus
 
-- **Frontend Development:** Building responsive interfaces using HTML, CSS, JavaScript, and React.
-- **Backend Development:** Learning server-side development using Node.js and Python.
-- **Database Management:** Practising SQL and MySQL for data storage and retrieval.
-- **Machine Learning:** Understanding algorithms and building practical ML projects.
-- **Software Development:** Improving Git, GitHub, debugging, and problem-solving skills.
+- **Frontend:** HTML, CSS, JavaScript, and React
+- **Backend:** Node.js and Python
+- **Database:** SQL and MySQL
+- **Machine Learning:** Learning algorithms and model evaluation
+- **Tools:** Git, GitHub, and VS Code
 
 ---
 
@@ -42,7 +42,7 @@ I'm an MCA student passionate about software development, web technologies, and 
 
 ### 1. Fraudulent Transaction Detection System
 
-A machine learning project focused on detecting potentially fraudulent financial transactions using transaction data.
+A machine learning project focused on detecting potentially fraudulent financial transactions.
 
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
@@ -50,7 +50,7 @@ A machine learning project focused on detecting potentially fraudulent financial
 
 ### 2. House Price Prediction
 
-A machine learning application that predicts house prices using data analysis and predictive modelling.
+A machine learning project that predicts house prices using data analysis and predictive modelling.
 
 **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
 
@@ -62,13 +62,13 @@ An unsupervised learning project that groups customers using the K-Means cluster
 
 ### 4. Loan Approval Prediction
 
-A machine learning web application that predicts loan approval using a trained Decision Tree model.
+A web application that predicts loan approval using a trained Decision Tree model.
 
-**Tech Stack:** Python, Flask, HTML, CSS, Tailwind CSS, Scikit-learn
+**Tech Stack:** Python, Flask, HTML, CSS, Tailwind CSS
 
 ### 5. AI Chatbot
 
-An AI-powered chatbot project built to explore conversational AI using language model integrations.
+A chatbot project built to explore AI-powered conversational applications.
 
 **Tech Stack:** Python, LangChain, OpenRouter
 
@@ -76,25 +76,21 @@ An AI-powered chatbot project built to explore conversational AI using language 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend Development
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML CSS JavaScript React" />
 
-### Backend Development
+### Backend and Programming
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,flask&theme=dark" alt="Node.js Python Flask" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,flask&theme=dark" alt="Python Node.js Flask" />
 
 ### Database
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
-
-### Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
 
 ### Tools
 
@@ -104,11 +100,11 @@ An AI-powered chatbot project built to explore conversational AI using language 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AGINKK&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AGINKK&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
@@ -118,7 +114,7 @@ An AI-powered chatbot project built to explore conversational AI using language 
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AGINKK&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AGINKK&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <br/><br/>
 
@@ -142,10 +138,10 @@ An AI-powered chatbot project built to explore conversational AI using language 
 
 <div align="center">
 
-### 💡 Learn. Build. Improve. Repeat.
+### Learn. Build. Improve. Repeat.
 
-*Thanks for visiting my profile! ⭐*
+Thanks for visiting my profile! ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=100&section=footer" width="100%" alt="Footer banner" />
 
 </div>
