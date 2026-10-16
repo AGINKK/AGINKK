@@ -1,110 +1,151 @@
-# Hi, I'm Ak 👋
+ <div align="center">
 
-### Aspiring Full Stack Developer | MCA Student | Machine Learning Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=220&section=header&text=Ak&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
-I'm an MCA student passionate about building practical applications, learning modern web technologies, and solving problems through code. I'm currently strengthening my skills in full stack development while exploring Python and machine learning.
+<h2>Full Stack Developer | MCA Student</h2>
 
-- 🎓 Pursuing Master of Computer Applications (MCA)
-- 💻 Interested in building responsive and user-friendly web applications
-- 🌱 Currently learning and improving my skills in React, Node.js, Python, and SQL
-- 🤖 Exploring machine learning through hands-on projects
-- 🎯 Goal: Become a skilled Full Stack Developer and build impactful software solutions
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Building+Web+Applications;Python+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 
----
+<a href="https://github.com/AGINKK">
+<img src="https://img.shields.io/badge/GitHub-AGINKK-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
 
-## 🛠️ Technical Skills
-
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Backend Development**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
-
-**Machine Learning**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
+
+Hi! Welcome to my GitHub profile.
+
+I'm an MCA student passionate about software development, web technologies, and problem-solving. I enjoy building projects that help me understand how real-world applications work, from designing user interfaces to developing backend logic and working with databases.
+
+- 🎓 Pursuing MCA at St. Joseph College Devagiri
+- 💻 Focused on Full Stack Development
+- 🌱 Learning React, Node.js, Python, and SQL
+- 🤖 Exploring Machine Learning through hands-on projects
+- 🎯 Working towards becoming a skilled Full Stack Developer
+
+---
+
+## 🎯 Current Focus
+
+- **Frontend Development:** Building responsive interfaces using HTML, CSS, JavaScript, and React.
+- **Backend Development:** Learning server-side development using Node.js and Python.
+- **Database Management:** Practising SQL and MySQL for data storage and retrieval.
+- **Machine Learning:** Understanding algorithms and building practical ML projects.
+- **Software Development:** Improving Git, GitHub, debugging, and problem-solving skills.
+
+---
+
+## 💻 Featured Projects
 
 ### 1. Fraudulent Transaction Detection System
-A machine learning project focused on identifying potentially fraudulent financial transactions using transaction data.
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn
+A machine learning project focused on detecting potentially fraudulent financial transactions using transaction data.
 
-[View Repository](https://github.com/AGINKK/fraud-detection-system)
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+[View Project](https://github.com/AGINKK/fraud-detection-system)
 
 ### 2. House Price Prediction
-A machine learning project that predicts house prices using data analysis and regression techniques.
 
-**Technologies:** Python, Pandas, Scikit-learn, Streamlit
+A machine learning application that predicts house prices using data analysis and predictive modelling.
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
 
 ### 3. Customer Segmentation
-An unsupervised machine learning project that groups customers into segments using the K-Means clustering algorithm.
 
-**Technologies:** Python, Pandas, Scikit-learn, K-Means
+An unsupervised learning project that groups customers using the K-Means clustering algorithm.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn
 
 ### 4. Loan Approval Prediction
-A machine learning web application that predicts loan approval using a trained classification model.
 
-**Technologies:** Python, Flask, Decision Tree, HTML, CSS, Tailwind CSS
+A machine learning web application that predicts loan approval using a trained Decision Tree model.
+
+**Tech Stack:** Python, Flask, HTML, CSS, Tailwind CSS, Scikit-learn
 
 ### 5. AI Chatbot
-A chatbot project built using LangChain and OpenRouter to explore AI-powered conversational applications.
 
-**Technologies:** Python, LangChain, OpenRouter
+An AI-powered chatbot project built to explore conversational AI using language model integrations.
 
-[View Repository](https://github.com/AGINKK/langchain-openrouter-chatbot)
+**Tech Stack:** Python, LangChain, OpenRouter
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AGINKK&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AGINKK&layout=compact&hide_border=true&theme=default)
+[View Project](https://github.com/AGINKK/langchain-openrouter-chatbot)
 
 ---
 
-## 📈 My Learning Journey
+## 🛠️ Tech Stack & Tools
 
-- Strengthening full stack development fundamentals
-- Building projects to apply programming concepts
-- Learning how frontend, backend, and databases work together
-- Exploring machine learning algorithms and model evaluation
-- Improving my Git, GitHub, and software development workflow
+<div align="center">
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML CSS JavaScript React" />
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask&theme=dark" alt="Node.js Python Flask" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+
+### Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Analytics
 
-I'm interested in connecting with developers, collaborating on projects, and learning from the developer community.
+<div align="center">
 
-- **GitHub:** [@AGINKK](https://github.com/AGINKK)
+<img src="https://komarev.com/ghpvc/?username=AGINKK&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AGINKK&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGINKK&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AGINKK&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AGINKK&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution graph" />
+
+</div>
 
 ---
 
-⭐ *Always learning, building, and improving — one project at a time.*
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AGINKK">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Learn. Build. Improve. Repeat.
+
+*Thanks for visiting my profile! ⭐*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=100&section=footer" width="100%" />
+
+</div>
